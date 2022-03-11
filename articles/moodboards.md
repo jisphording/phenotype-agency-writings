@@ -1,8 +1,12 @@
 # Moodboards
 
+- Foundations
+
 *Moodboards are an important tool in design ideation.
-Especially when starting new projects or working with new project partners or clients, Moodboards set the tone and direction for a project right from the outset and can give you the opportunity to explore different ideas in a short timeframe. Add to that "a picture is worth a thousand words" (as they say...) and talk your project stakeholders through your ideas guided by something they are actually able to see.
-Moodboards are a tool that help to talk about something everybody can actually see which make them a powerful instrument in supporting ideas or start a conversation to guide the initial direction of the project.*
+Especially when starting new projects or working with new project partners or clients, Moodboards set the tone and direction for a project right from the outset and can give you the opportunity to explore different ideas in a short timeframe.*
+
+Add to that "a picture is worth a thousand words" (as they say...) and talk your project stakeholders through your ideas guided by something they are actually able to see.
+Moodboards are a tool that help to talk about something everybody can actually see which make them a powerful instrument in supporting ideas or start a conversation to guide the initial direction of the project.
 
 A moodboard may present fancy suggestions, images or ideas.
 That does not mean that simply by creating it the project will lead to a satisfactory end result or that the contents of the mood board can be transferred to the final product.
